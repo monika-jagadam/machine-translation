@@ -1,0 +1,12 @@
+!pip install datasets
+!pip install transformers
+!pip install sentencepiece
+!pip install transformers[torch]`
+!pip install sacrebleu
+!pip install evaluate
+!pip install sacrebleu
+!pip install accelerate -U
+!pip install gradio
+!pip install kaleido cohere  openai tiktoken typing-extensions==4.5.0
+
+!pip install --upgrade transformers tokenizers
